@@ -1,6 +1,7 @@
 # Omnifood-html-css-js
 
+Technolgy used: HTML-CSS-JS
+
 It is up and running!!!
 
-
-URL:
+Check it out live: https://omnifood-ashutosh-dhok.netlify.app/
