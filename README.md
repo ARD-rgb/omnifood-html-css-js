@@ -1,6 +1,6 @@
 # Omnifood-html-css-js
 
-Technolgy used: HTML-CSS-JS
+Technolgy used: HTML-CSS-JS AND IT'S RESPONSIVE!
 
 It is up and running!!!
 
